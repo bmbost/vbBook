@@ -1,0 +1,10 @@
+C:\Users\bmbos\Dropbox\vbBook\Greetings\Greetings\obj\Debug\Greetings.vbprojResolveAssemblyReference.cache
+C:\Users\bmbos\Dropbox\vbBook\Greetings\Greetings\obj\Debug\Greetings.Resources.resources
+C:\Users\bmbos\Dropbox\vbBook\Greetings\Greetings\obj\Debug\Greetings.vbproj.GenerateResource.Cache
+C:\Users\bmbos\Dropbox\vbBook\Greetings\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\bmbos\Dropbox\vbBook\Greetings\Greetings\bin\Debug\Greetings.exe
+C:\Users\bmbos\Dropbox\vbBook\Greetings\Greetings\bin\Debug\Greetings.pdb
+C:\Users\bmbos\Dropbox\vbBook\Greetings\Greetings\bin\Debug\Greetings.xml
+C:\Users\bmbos\Dropbox\vbBook\Greetings\Greetings\obj\Debug\Greetings.exe
+C:\Users\bmbos\Dropbox\vbBook\Greetings\Greetings\obj\Debug\Greetings.xml
+C:\Users\bmbos\Dropbox\vbBook\Greetings\Greetings\obj\Debug\Greetings.pdb
